@@ -5,5 +5,5 @@ Folder Structure:
 
 - generative-ai-in-recommendation-system
   - codebase:Code from all the experimentation during research.
-  - research_paper:Directory for working on the research paper in markdown.
+  - research-paper:Directory for working on the research paper in markdown.
     - template:Contains the research paper template as per the IEEE format.
